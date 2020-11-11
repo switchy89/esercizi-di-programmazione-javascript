@@ -16,3 +16,9 @@
     
   http://www.imparareaprogrammare.it
 */
+
+function equal(n, m) {
+  return n === m;
+}
+
+console.log(equal(2, 2));
